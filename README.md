@@ -3,7 +3,9 @@
 <h3 align="center">Linux enthusiast, my interests are programming, operating systems and cybersecurity.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
+    <a href="https://www.debian.org/index.es.html"><img src="https://raw.githubusercontent.com/AydroPunk/AydroPunk/c0be059e6b37edf7ee4ab5d39e686ab8b7b8b31d/src/tools/debian.svg" height="50" width="50" alt="debian"></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
     </a>
