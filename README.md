@@ -18,11 +18,14 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.djangoproject.com/favicon.ico" alt="Django" width="40" height="40"/>
+    </a>
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-        <img src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="40" height="40"/>
+        <img src="https://i.postimg.cc/bYDwV5fC/photoshop-40.png" alt="Photoshop" width="40" height="40"/>
     </a>
     <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
-        <img src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/512px-Adobe_Illustrator_CC_icon.svg.png" alt="Illustrator" width="40" height="40"/>
+        <img src="https://i.postimg.cc/K8YVQdd4/illustrator-40.png" alt="Illustrator" width="40" height="40"/>
     </a>
 </p>
 
